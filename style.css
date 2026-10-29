@@ -9,3 +9,42 @@
 
    We'll write styles here starting Monday.
    ========================================================== */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5000096;
+    color: #615f5fb6;
+    line-height: 1.8;
+    box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: #e41717b6;
+}
+h2 {
+    color: #ac4e4eb6;
+    font-weight: bold;
+
+
+}
+a:hover {
+    color: #296633;
+}
+a:visited {
+    color: #eaf0e0;
+}
+:active {
+    color: #cc19bd;
+}
